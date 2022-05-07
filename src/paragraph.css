@@ -1,0 +1,30 @@
+
+
+.para{
+    
+   
+    text-align: center;
+    margin: 30px;
+    height: 260px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+.para h1{
+    font-weight: bold;
+}
+.para h5{
+
+    font-size: 20px;
+    width: 700px;
+    margin: auto;
+    margin-top: 20px;
+    padding: 20px;
+    line-height: 25px;
+    text-align: justify;
+    /* background-color: #e4faff; */
+    border-radius: 20px;
+}
+/* .para h5:hover{
+    background-color: black;
+    color: blanchedalmond;
+    cursor: pointer;
+} */
